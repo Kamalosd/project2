@@ -1,3 +1,3 @@
 # new project
 
- proj2
+ proj2.
